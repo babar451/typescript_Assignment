@@ -1,0 +1,27 @@
+{
+  "name": "assignment_piaic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Q2.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babar451/typescript_Assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/babar451/typescript_Assignment/issues"
+  },
+  "homepage": "https://github.com/babar451/typescript_Assignment#readme",
+  "dependencies": {
+    "inquirer": "^9.2.10"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  }
+}
